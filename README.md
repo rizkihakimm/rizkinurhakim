@@ -1,4 +1,4 @@
-👋 Hi, I’m @rizkinurhakim. I am an Information systems student. 
+👋 Hi, I’m @rizkinurhakim you can call me Hakim. I am an Information systems student. 
 👀 FYI I'm a person who has an interest in programming and design. 
 
 Current skills that I have, include :
