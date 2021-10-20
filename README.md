@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rizkinurhakim
 - 👀 I’m interested in world of Code and Design
 - 🌱 I’m currently learning about Android Developer
-- 📫 You can dm me on Instagram @rizki_hakimm
+- 📫 You can contact me on Instagram @rizki_hakimm
 
 <!---
 rizkinurhakim/rizkinurhakim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
