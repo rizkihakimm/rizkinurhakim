@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @rizkinurhakim
-- 👀 I’m interested in world of Code and Design
-- 🌱 I’m currently learning about Android Developer
-- 📫 You can contact me on Instagram @rizki_hakimm
+👋 Hi, I’m @rizkinurhakim. I am an Information systems student. 
+👀 FYI I'm a person who has an interest in programming and design. 
 
-<!---
-rizkinurhakim/rizkinurhakim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Current skills that I have, include :
+Front-End Developer   -> HTML5, CSS3, JavaScript
+Programming Languages -> Java, JavaScript
+UI/UX Design          -> Adobe XD, Figma                
+
+🌱 I'm currently learning about Android Developer using the Java programming language.
+📫 You can contact me on Instagram @rizki_hakimm
+
+
+
+
+
+
