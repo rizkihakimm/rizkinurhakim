@@ -4,7 +4,6 @@
 - Web Development : HTML5, CSS3 ➡️ Intermediate
 - UI/UX Design : Adobe XD, Figma, Axure ➡️ Intermediate
 - Programming Languages : Java, JavaScript ➡️ Beginner
-- Microsoft Office : MsWord, MsPoint, MsExcel ➡️ Intermediate
 
 🌱 I'm currently learning about Android Developer using the Java programming language.
 
